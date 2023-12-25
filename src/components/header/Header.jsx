@@ -9,7 +9,7 @@ const Header = () => {
         <div className="header-content grid items-center">
           <div className="header-intro">
             <div className="flex items-end header-intro-wrapper">
-              <img src={AvatarSVG} alt="avatar" className="avatar" />
+              <img src={AvatarSVG} alt="avatar" className="avatar"/>
               <h1 className="header-name text-white">
                 Prince Dubey, <br /> Software Developer
               </h1>
@@ -66,7 +66,7 @@ const Header = () => {
                 <li className="social-item">
                     <Link target="_blank" rel="noopener noreferrer" to="/">
                         <img src={Dribble} />
-                        <span className="tooltip text">Dribble</span>
+                        <span className="tooltip text">Twitter</span>
                     </Link>
                 </li>
                 <li className="social-item">

@@ -35,6 +35,15 @@ import Reading from "./images/reading.png";
 import Travelling from "./images/travelling.png";
 import Blogging from "./images/blogging.png";
 import Gaming from "./images/gaming.png";
+import Node from "./images/nodejs.png";
+import React from "./images/reactjs.png";
+import JavaScript from "./images/javascript.png";
+import Mongo from "./images/mongodb.png";
+import Git from "./images/gitlab.png";
+import AWS from "./images/AWS.png";
+import Twiter from "./images/twitter.svg";
+import GitHub from "./images/github.png";
+import Pdlogo from "./images/pdlogo.svg";
 
 export {
   AvatarPNG,
@@ -74,4 +83,13 @@ export {
   Travelling,
   Blogging,
   Gaming,
+  Node,
+  React,
+  JavaScript,
+  Mongo,
+  Git,
+  AWS,
+  GitHub,
+  Twiter,
+  Pdlogo
 };
